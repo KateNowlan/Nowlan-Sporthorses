@@ -81,6 +81,8 @@ h1 {
 /*meet the team section */
 .ozziepic , .mepic {
     border-radius: 50%;
+    padding-top: .5%;
+    padding-bottom: .5%;
 }
 .ozzieintro {
     padding-left: 8%;
@@ -95,7 +97,7 @@ h1 {
     padding-left: 2%;
 }
 
-/* map */
+/* visit us - map section */
 .visit {
     font-size: 25px;
 }
