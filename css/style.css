@@ -67,7 +67,6 @@ h1 {
 .sections-wrapper {
     border-radius: 0.625rem;
 }
-
 .sections-wrapper {
     display: flex;
     align-items: center;
@@ -82,4 +81,16 @@ h1 {
 /*meet the team section */
 .ozziepic , .mepic {
     border-radius: 50%;
+}
+
+/* map */
+#map {
+    text-align: center;
+    font-size: 20px;
+    display: inline;
+    padding-left: 10%;
+}
+.mapimage { 
+    float: right;
+    padding-left: 30%;
 }
