@@ -56,3 +56,10 @@ h1 {
 .active {
     border-bottom: 1px solid black;
 }
+/* about section */
+.intro,
+.offer {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
