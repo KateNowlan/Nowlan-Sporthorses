@@ -100,6 +100,7 @@ h1 {
 /* visit us - map section */
 .visit {
     font-size: 25px;
+    padding-top: 1%;
 }
 .visit > p {
     font-size: 20px;;
@@ -112,4 +113,23 @@ h1 {
     background-repeat: no-repeat;
     height: 410px;
     width: 100%;
+}
+/* social networks in footer */
+footer {
+    height: 100px;
+}
+.social-networks {
+    text-align: center;
+    padding-top: 3%;
+    color: black;
+}
+.social-networks i {
+    font-size: 200%;
+    margin: 1%;
+    padding-inline: 4%;
+    color: black;
+}
+.social-networks>li {
+    display: inline;
+    padding-top: 1%;
 }
