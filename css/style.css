@@ -85,12 +85,11 @@ h1 {
 
 /* map */
 #map {
-    text-align: center;
+    text-align: justify;
     font-size: 20px;
     display: inline;
-    padding-left: 10%;
 }
 .mapimage { 
-    float: right;
     padding-left: 30%;
+    padding-top: 1%;
 }
