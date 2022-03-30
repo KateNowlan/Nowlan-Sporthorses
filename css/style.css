@@ -82,14 +82,32 @@ h1 {
 .ozziepic , .mepic {
     border-radius: 50%;
 }
+.ozzieintro {
+    padding-left: 8%;
+}
+.ozzie {
+    padding-left: 5%;
+}
+.meintro {
+    padding-left:2%
+}
+.kate {
+    padding-left: 2%;
+}
 
 /* map */
-#map {
-    text-align: justify;
-    font-size: 20px;
-    display: inline;
+.visit {
+    font-size: 25px;
 }
-.mapimage { 
-    padding-left: 30%;
-    padding-top: 1%;
+.visit > p {
+    font-size: 20px;;
+}
+.fields {
+    background-image: url('https://news.cgtn.com/news/2020-12-16/China-discovers-earliest-and-largest-rice-paddy-fields-in-the-world-WgnsFkxq12/img/06dd48b969084ab19f8e40fb83e5ab76/06dd48b969084ab19f8e40fb83e5ab76.png');
+    overflow: hidden;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 410px;
+    width: 100%;
 }
