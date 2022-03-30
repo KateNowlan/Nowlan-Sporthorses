@@ -98,11 +98,11 @@ h1 {
 }
 
 /* visit us - map section */
-.visit {
+.vagainfo {
     font-size: 25px;
     padding-top: 1%;
 }
-.visit > p {
+.vagainfo > p {
     font-size: 20px;;
 }
 .fields {
@@ -113,6 +113,37 @@ h1 {
     background-repeat: no-repeat;
     height: 410px;
     width: 100%;
+}
+/* main image on stallions page */
+.horse_standing img{
+    height: 500px;
+    width: 50%;
+float: right;
+}
+#main {
+display: inline;
+}
+#vagabond {
+    float: left;
+    text-align: center;
+    padding-top: 3%;
+}
+
+/* bookings form */
+#bookings {
+    text-align: center;
+    font-size: 19px;
+}
+#easter {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    padding-top: 2%;
+}
+.special {
+    font-size: 23px;
+    text-align: center;
+    padding-top: 2%;
 }
 /* social networks in footer */
 footer {
