@@ -79,3 +79,7 @@ h1 {
     color: black;
     justify-content: baseline;
 }
+/*meet the team section */
+.ozziepic , .mepic {
+    border-radius: 50%;
+}
