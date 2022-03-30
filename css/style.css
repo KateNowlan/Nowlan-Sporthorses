@@ -63,3 +63,19 @@ h1 {
     text-align: center;
     text-decoration: underline;
 }
+/* wrapper for sections */
+.sections-wrapper {
+    border-radius: 0.625rem;
+}
+
+.sections-wrapper {
+    display: flex;
+    align-items: center;
+    height: fit-content;
+    margin: 0 auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 0 0 0.625rem 0.3125rem rgb(0 0 0 / 50%);
+    color: black;
+    justify-content: baseline;
+}
