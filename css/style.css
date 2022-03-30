@@ -117,19 +117,22 @@ h1 {
 .vagainfo {
     font-size: 25px;
     padding-top: 1%;
-    text-align: left;
-    display: flex;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 0%;
 }
 .vagainfo > p {
-    font-size: 25px;
+    font-size: 23px;
 }
-.horse_standing img{
-    height: 400px;
-    width: 50%;
-    float: right;
+.horse_standing {
+    height: 350px;
+    width: 60%;
+    display:flex;
+    justify-content: right;
 }
 .vagabondz {
     text-align: left;
+    padding-right: 2%;
 }
 .stud {
     text-align: center;
