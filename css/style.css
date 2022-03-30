@@ -52,3 +52,7 @@ h1 {
     color: pink;
     cursor: pointer;
 }
+
+.active {
+    border-bottom: 1px solid black;
+}
