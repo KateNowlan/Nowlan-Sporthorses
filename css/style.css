@@ -25,3 +25,19 @@ h1 {
     margin: 0;
     padding-top: 1%;
 }
+/* navigation links */
+#nav {
+    font-size: 120%;
+    list-style-type: none;
+    letter-spacing: .5px;
+}
+
+#nav li {
+    float: right;
+    margin-right: 30px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: inherit;
+}
