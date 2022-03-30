@@ -133,3 +133,6 @@ footer {
     display: inline;
     padding-top: 1%;
 }
+.social-networks i:hover {
+    color: blue
+}
