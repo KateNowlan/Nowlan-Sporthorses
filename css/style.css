@@ -52,7 +52,6 @@ h1 {
     color: pink;
     cursor: pointer;
 }
-
 .active {
     border-bottom: 1px solid black;
 }
@@ -82,10 +81,13 @@ h1 {
     padding-bottom: .5%;
 }
 .ozzieintro {
-    padding-left: 1%;
+    padding-left: 8%;
 }
-.ozziepic {
-    padding-left:2%
+.meintro {
+    padding-left: 2%;
+}
+.ozzie {
+    padding-left: 5%;
 }
 .kate {
     padding-left: 2%;
@@ -115,20 +117,22 @@ h1 {
 .vagainfo {
     font-size: 25px;
     padding-top: 1%;
+    text-align: left;
+    display: flex;
 }
 .vagainfo > p {
     font-size: 25px;
 }
 .horse_standing img{
-    height: 500px;
+    height: 400px;
     width: 50%;
     float: right;
 }
-#vagabond {
-    float: left;
+.vagabondz {
     text-align: left;
-    padding-top: 7%;
-    padding-bottom: 10%;
+}
+.stud {
+    text-align: center;
 }
 /* bookings form */
 #bookings {
