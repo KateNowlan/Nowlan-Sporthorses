@@ -47,3 +47,8 @@ h1 {
     text-decoration: none;
     color: inherit;
 }
+#nav a:hover {
+    border-bottom: 1.5px solid black;
+    color: pink;
+    cursor: pointer;
+}
