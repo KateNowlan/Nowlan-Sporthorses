@@ -25,6 +25,12 @@ h1 {
     margin: 0;
     padding-top: 1%;
 }
+.easter {
+    padding-left: 8%;
+    padding-top: 4%;
+    color: pink;
+    font-size: 35px;
+}
 /* navigation links */
 #nav {
     font-size: 120%;
