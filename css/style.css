@@ -57,8 +57,7 @@ h1 {
     border-bottom: 1px solid black;
 }
 /* about section */
-.intro,
-.offer {
+.meet , .intro, .offer {
     font-size: 30px;
     text-align: center;
     text-decoration: underline;
@@ -69,14 +68,12 @@ h1 {
 }
 .sections-wrapper {
     display: flex;
-    align-items: center;
     height: fit-content;
-    margin: 0 auto;
     padding-left: 2%;
     padding-right: 2%;
     box-shadow: 0 0 0.625rem 0.3125rem rgb(0 0 0 / 50%);
     color: black;
-    justify-content: baseline;
+    align-items: center;
 }
 /*meet the team section */
 .ozziepic , .mepic {
@@ -85,25 +82,25 @@ h1 {
     padding-bottom: .5%;
 }
 .ozzieintro {
-    padding-left: 8%;
+    padding-left: 1%;
 }
-.ozzie {
-    padding-left: 5%;
-}
-.meintro {
+.ozziepic {
     padding-left:2%
 }
 .kate {
     padding-left: 2%;
 }
-
 /* visit us - map section */
-.vagainfo {
-    font-size: 25px;
+.mapimage {
+    width: 30%;
+    padding-left: 35%;
+}
+.visit {
     padding-top: 1%;
 }
-.vagainfo > p {
-    font-size: 20px;;
+.visit , p {
+    font-size: 18px;
+    text-align: center;
 }
 .fields {
     background-image: url('https://news.cgtn.com/news/2020-12-16/China-discovers-earliest-and-largest-rice-paddy-fields-in-the-world-WgnsFkxq12/img/06dd48b969084ab19f8e40fb83e5ab76/06dd48b969084ab19f8e40fb83e5ab76.png');
@@ -115,20 +112,24 @@ h1 {
     width: 100%;
 }
 /* main image on stallions page */
+.vagainfo {
+    font-size: 25px;
+    padding-top: 1%;
+}
+.vagainfo > p {
+    font-size: 25px;
+}
 .horse_standing img{
     height: 500px;
     width: 50%;
-float: right;
-}
-#main {
-display: inline;
+    float: right;
 }
 #vagabond {
     float: left;
-    text-align: center;
-    padding-top: 3%;
+    text-align: left;
+    padding-top: 7%;
+    padding-bottom: 10%;
 }
-
 /* bookings form */
 #bookings {
     text-align: center;
