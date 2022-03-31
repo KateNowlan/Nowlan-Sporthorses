@@ -115,7 +115,7 @@ h1 {
     height: 410px;
     width: 100%;
 }
-/* main image on stallions page */
+/* main image and info next to main image on stallions page */
 .vagainfo {
     font-size: 25px;
     padding-top: 1%;
@@ -138,6 +138,23 @@ h1 {
 }
 .stud {
     text-align: center;
+}
+/* column and row for gallery */
+.column img {
+    width: 30%;
+    height: 300px;
+    float: left;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+.row {
+    clear: both;
+}
+#gallery {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 4%;
 }
 /* bookings form */
 #bookings {
