@@ -141,8 +141,8 @@ h1 {
 }
 /* column and row for gallery */
 .column img {
-    width: 30%;
-    height: 300px;
+    width: 31%;
+    height: 380px;
     float: left;
     padding-left: 2%;
     padding-bottom: 2%;
@@ -154,7 +154,6 @@ h1 {
     font-size: 25px;
     text-align: center;
     padding-top: 2%;
-    padding-bottom: 4%;
 }
 /* bookings form */
 #bookings {
