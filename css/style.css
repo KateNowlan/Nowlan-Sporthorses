@@ -97,11 +97,13 @@ h1 {
     width: 30%;
     padding-left: 35%;
 }
-.visit {
-    padding-top: 1%;
-}
 .visit , p {
+    padding-top: 1%;
     font-size: 18px;
+    text-align: center;
+}
+.visit  {
+    font-size: 22px;
     text-align: center;
 }
 .fields {
@@ -152,6 +154,20 @@ h1 {
     font-size: 23px;
     text-align: center;
     padding-top: 2%;
+}
+/* back to top button */
+#to-top {
+    text-decoration: none;
+    display: inherit;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 3%;
+}
+#to-top:hover {
+    text-decoration: underline;
+    color: pink;
 }
 /* social networks in footer */
 footer {
