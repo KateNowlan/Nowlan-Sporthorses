@@ -5,7 +5,7 @@ body {
     background-color: beige;
 }
 /* headings and logo */
-.banner {
+#banner {
     background-image: url('https://www.animaltalk.com.au/wp-content/uploads/2017/09/Horse-Banner.jpg');
     overflow: hidden;
     background-size: cover;
@@ -80,6 +80,8 @@ h1 {
     border-radius: 50%;
     padding-top: .5%;
     padding-bottom: .5%;
+    height:220px;
+    width:220px;
 }
 .ozzieintro {
     padding-left: 8%;
@@ -238,6 +240,10 @@ footer {
 .stud {
     font-size: 30px;
 }
+.ozziepic , .mepic {
+    width: 160px;
+    height: 160px;
+}
 }
 /* for tablets/small laptop screens size from 900px and below */
 @media only screen and (max-width: 900px) {
@@ -262,5 +268,9 @@ footer {
 }
 .stud {
     font-size: 30px;
+}
+.ozziepic , .mepic {
+    width: 140px;
+    height: 140px;
 }
 }
