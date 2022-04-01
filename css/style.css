@@ -136,6 +136,8 @@ h1 {
 }
 .stud {
     text-align: center;
+    font-size: 50px;
+    margin: 1%;
 }
 /* column and row for gallery */
 .column img {
