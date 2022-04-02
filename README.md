@@ -12,6 +12,31 @@ The sites' target audience is people who:
 
 * want to send us a enquiry for a contract to read through in reagrds to using our stallion.
 
+**The website is live on Github Pages [Linked Here](https://tiyko.github.io/bram-stoker/index.html)**
+
+
+![Am I responsive screenshot](docs/screenshots/screenshot_am_i_responsive.jpg)
+
+### *User Accessibility*
+
+ __From a users perspective the site must:__
+
+* Have a eye-catching design.
+* Have information that is easily accesible.
+* Have information that is current and meaningful.
+* Have content that is not overwhelming.
+* Have a balance between pictures and text.
+* Have information on how to get hold of the author of the website.
+* Have social media channels to click on to follow.
+
+### *Wireframes*
+
+I drew up a mock website so i could plan where i wanted everything to be put and whether the layout would flow.
+
+  * ![wireframe drawing top](/images/Screenshot_wireframetop.png)
+
+  * ![wireframe drawing bottom](/images/Screenshot_wireframebottom.png) 
+
 ## *Features*
 
 The webiste consists of three webpages:
@@ -36,7 +61,8 @@ The webiste consists of three webpages:
    
       - [Stallions](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/stallions.html) 
     
-      - [Bookings](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/bookings.html)     
+      - [Bookings](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/bookings.html) 
+   
 
    __Home Page Content__
    
@@ -66,7 +92,7 @@ The webiste consists of three webpages:
 
    ![back to top link](/images/Screenshot_backtotop.png)
 
-   - And lastly at the bottom of the page are the social media icons which whe clicked take you to theit corresponding social media websites. These open in a new tab.
+   - And lastly at the bottom of the page are the social media icons which whe clicked take you to their corresponding social media websites. These open in a new tab.
 
    ![social media icons](/images/Screenshot_socialmediaicons.png)
 
@@ -125,4 +151,36 @@ __Validator Testing__
     - Desktop screenshot
     
 ![lighthouse desktop](./images/Screenshot_lighthousedesktop.png)
-      
+
+
+  The website was tested on the following platforms to see if it worked:
+  * Chrome
+  * Safari
+
+  I used developer tools alot to check accesibility and responsiveness.
+
+  I had a couple issues along the way with learning the correct code for html and css. This was overcome by trial and error putting in the code and seeing how it affected the website.
+
+  If i had a couple divs open in a section i needed to pay close attention to making sure all of them were closed otherwise this affected my websites layout in the sections.
+
+ ### *Colors*
+
+      * I used a color validator to make sure the contrast of colors on the website is balanced.
+
+      ![color contrast](/images/Screenshot_colorcontrast.png)
+
+# **Testing and Debugging**
+
+I used to following platforms to test whether my website was working:
+
+* Chrome 
+* Safari
+
+I used developer tools alot to help me with responsiveness and accesibility issues.
+
+I mostly learnt just by trial and error.
+
+Googling the code for something i wasnted to do and then adjusting as and where i need worked very well.
+
+A fault i had to learn very quick was my inability to close divs. If i had three or so divs in a section i needed to make sure they were all closed.
+
