@@ -208,4 +208,16 @@ A fault i had to learn very quick was my inability to close divs. If i had three
 
  * Thanks must go to my mentor Okwudiri Okoro for all his guidance.
 
+  # **Media**
+
+  The pictures of the horses are all personal pictures i have taken myself.
+
+  The banner image is from:
+
+  [animal talk website](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.animaltalk.com.au%2Fgallery%2Fhorse-banner%2F&psig=AOvVaw3RWX_hM_NXqF3G8zJSqjoZ&ust=1648713939162000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDfz5ew7fYCFQAAAAAdAAAAABAE)
+
+  The fields image is taken from:
+
+  [field picture on website](https://dz2cdn1.dzone.com/storage/temp/12876949-pic-field-in-fall.jpg)
+
 
