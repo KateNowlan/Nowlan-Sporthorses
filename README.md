@@ -184,3 +184,14 @@ Googling the code for something i wasnted to do and then adjusting as and where 
 
 A fault i had to learn very quick was my inability to close divs. If i had three or so divs in a section i needed to make sure they were all closed.
 
+# **Deployment**
+
+ * On GitHub main page click on your repository.
+ * Click on settings
+ * This takes you to GitHub Pages.
+ * On the section with the title "Source",click the arrow and you have 3 options:
+ * Select Branch: main
+ * Select Folder: /(root)
+ * Click save: your website will be deployed.
+
+
