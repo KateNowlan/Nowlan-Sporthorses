@@ -184,6 +184,10 @@ Googling the code for something i wasnted to do and then adjusting as and where 
 
 A fault i had to learn very quick was my inability to close divs. If i had three or so divs in a section i needed to make sure they were all closed.
 
+# **Unfixed bugs**
+
+* I have tried a whole host of things but i cannot get the banner image to resize with the text when viewed on any smaller screens.
+
 # **Deployment**
 
  * On GitHub main page click on your repository.
@@ -203,4 +207,5 @@ A fault i had to learn very quick was my inability to close divs. If i had three
  # **Credit**
 
  * Thanks must go to my mentor Okwudiri Okoro for all his guidance.
+
 
