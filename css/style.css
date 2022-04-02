@@ -276,6 +276,12 @@ footer {
 }
 /* for small mobile screens size from 400px and below */
 @media only screen and (max-width: 400px) {
+    #banner {
+        background-position: center;
+    }
+    .easter {
+        font-weight: 200;
+    }
     #logo {
         font-size: 28px;
     }
