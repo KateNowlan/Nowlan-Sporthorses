@@ -194,4 +194,13 @@ A fault i had to learn very quick was my inability to close divs. If i had three
  * Select Folder: /(root)
  * Click save: your website will be deployed.
 
+ # **Research**
+
+ * Websites sourced from Google used for information were:
+ - Stack overflow
+ - W3C
+
+ # **Credit**
+
+ * Thanks must go to my mentor Okwudiri Okoro for all his guidance.
 
