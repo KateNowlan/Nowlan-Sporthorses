@@ -274,3 +274,38 @@ footer {
     height: 140px;
 }
 }
+/* for small mobile screens size from 400px and below */
+@media only screen and (max-width: 400px) {
+    #logo {
+        font-size: 28px;
+    }
+    .easter {
+        text-align: center;
+        font-size: 18px;
+    }
+    .intro, .offer, .meet {
+        font-size: 20px;
+    }
+    .horse_trotting img {
+        max-width: 100%;
+        max-height:100%;
+        display: inline;
+    }
+    .stallion {
+        font-size: 10px;
+        padding: 0%;
+    }
+    .vagainfo > p {
+        font-size: 10px;
+    }
+    .vagabondz {
+        font-size: 15px;
+    }
+    .stud {
+        font-size: 30px;
+    }
+    .ozziepic , .mepic {
+        width: 160px;
+        height: 160px;
+    }
+    }

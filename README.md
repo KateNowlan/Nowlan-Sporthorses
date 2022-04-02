@@ -12,10 +12,10 @@ The sites' target audience is people who:
 
 * want to send us a enquiry for a contract to read through in reagrds to using our stallion.
 
-**The website is live on Github Pages [Linked Here](https://tiyko.github.io/bram-stoker/index.html)**
+**The website is live on Github Page [Nowlan Sporthorses](https://katenowlan.github.io/Nowlan-Sporthorses/)**
 
 
-![Am I responsive screenshot](docs/screenshots/screenshot_am_i_responsive.jpg)
+![Am I responsive screenshot](/images/Screenshot_amiresponsive.png)
 
 ### *User Accessibility*
 
