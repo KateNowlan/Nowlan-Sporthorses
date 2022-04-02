@@ -7,9 +7,8 @@ body {
 /* headings and logo */
 #banner {
     background-image: url('https://www.animaltalk.com.au/wp-content/uploads/2017/09/Horse-Banner.jpg');
-    overflow: hidden;
     background-size: cover;
-    background-position: bottom;
+    background-position: center center;
     background-repeat: no-repeat;
     height: 370px;
     width: 100%;
@@ -218,7 +217,10 @@ footer {
 
 /* for mobile screens size from 600px and below */
 @media only screen and (max-width: 600px) {
-.easter {
+#banner {
+    max-width: 100%;
+}
+    .easter {
     text-align: center;
     font-size: 25px;
 }
@@ -247,7 +249,10 @@ footer {
 }
 /* for tablets/small laptop screens size from 900px and below */
 @media only screen and (max-width: 900px) {
-.easter {
+#banner {
+    max-width: 100%;
+}
+    .easter {
     text-align:left;
     font-size: 30px;
 }
@@ -277,18 +282,18 @@ footer {
 /* for small mobile screens size from 400px and below */
 @media only screen and (max-width: 400px) {
     #banner {
-        background-position: center;
-    }
-    .easter {
-        font-weight: 200;
-        color: purple;
+     width: 100%;
+     max-width:400px;
+     background-position: center center;
+     background-size: cover;
     }
     #logo {
-        font-size: 28px;
+        font-size: 50px;
     }
     .easter {
-        text-align: center;
-        font-size: 18px;
+        font-weight: 300;
+        color: purple;
+        margin-top: 2%;
     }
     .intro, .offer, .meet {
         font-size: 20px;
