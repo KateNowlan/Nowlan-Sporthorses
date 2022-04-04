@@ -65,7 +65,7 @@ h1 {
 
 /* about section */
 
-.meet , .intro, .offer {
+.meet , .mission , .offer {
     font-size: 30px;
     text-align: center;
     text-decoration: underline;
@@ -151,12 +151,12 @@ h1 {
 .vagainfo > p {
     font-size: 23px;
     padding-left: 5%;
-    text-align: center;    
+    text-align: left;    
 }
 
 .horse_trotting {
     float: left;
-    padding: 0;
+    padding: 2%;
 }
 
 .vagabondz {
