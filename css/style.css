@@ -2,7 +2,6 @@ body {
     font-family: Arial, sans-serif;
     font-weight: 200;
     color: black;
-    background-color: beige;
 }
 
 /* headings and logo */
@@ -13,28 +12,29 @@ body {
     background-repeat: no-repeat;
     height: 370px;
     width: 100%;
+    padding: 0;
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
     letter-spacing: .5px;
-    color: black;
-
     text-align: center;
     font-size: 415%;
     margin: 0;
     padding-top: 1%;
 }
 
-.easter {
-    padding-left: 8%;
+.easter p {
     padding-top: 4%;
     color: pink;
     font-size: 35px;
+    text-align: left;
+    padding-left: 3%;
 }
 
 /* navigation links */
+
 #nav {
     font-size: 120%;
     list-style-type: none;
@@ -75,34 +75,35 @@ h1 {
 .sections-wrapper {
     display: flex;
     height: fit-content;
-    padding-left: 2%;
-    padding-right: 2%;
-    box-shadow: 0 0 0.625rem 0.3125rem rgb(0 0 0 / 50%);
-    color: black;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 0.33);
     align-items: center;
     border-radius: 0.625rem;
+    background: beige;
+    padding: 0 5vh;
+    height: auto;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
 }
 
 /*meet the team section */
 
 .ozziepic , .mepic {
     border-radius: 50%;
-    padding-top: .5%;
-    padding-bottom: .5%;
-    height:220px;
-    width:220px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    height: 180px;
+    width: 180px;
 }
 
+.meintro {
+    padding-left: 3%;
+}
 .ozzieintro {
     padding-left: 8%;
 }
 
-.meintro {
-    padding-left: 2%;
-}
-
 .ozzie {
-    padding-left: 5%;
+    padding-left: 6%;
 }
 
 .kate {
@@ -123,7 +124,7 @@ h1 {
 }
 
 .visit  {
-    font-size: 22px;
+    font-size: 25px;
     text-align: center;
 }
 
