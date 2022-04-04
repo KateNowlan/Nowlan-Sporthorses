@@ -18,17 +18,18 @@ body {
 
 #logo {
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 700;
+    font-weight: bold;
     text-align: center;
-    font-size: 72px;
+    font-size: 12vh;
     margin: 0 auto;
-    padding-top: 1%;
-    letter-spacing: .15em;
+    letter-spacing: .1em;
     overflow: hidden;
     animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
     white-space: nowrap;
     border-right: .15em solid pink;
-    width: 0;
+    width: 30em;
+    justify-content: center;
+
 }
 
 @keyframes typing {
@@ -305,10 +306,28 @@ footer {
 #banner {
     max-width: 100%;
 }
-.easter {
-    text-align: left;
-    font-size: 18px;
-    padding-top: 3%;
+
+#logo {
+    text-align: center;
+    font-size: 7vh;
+    margin: 0 auto;
+    letter-spacing: .1em;
+    overflow: hidden;
+    animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
+    white-space: nowrap;
+    border-right: .05em solid pink;
+    width: 10em;
+    justify-content: center;
+}
+
+.nav {
+    font-size: 30px;
+}
+
+.easter p {
+    text-align:left;
+    font-size: 24px;
+    padding-top: 15%;
 }
 
 .horse_trotting img {
@@ -347,9 +366,27 @@ footer {
     max-width: 100%;
 }
 
-.easter {
+#logo {
+    text-align: center;
+    font-size: 7vh;
+    margin: 0 auto;
+    letter-spacing: .1em;
+    overflow: hidden;
+    animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
+    white-space: nowrap;
+    border-right: .05em solid pink;
+    width: 10em;
+    justify-content: center;
+}
+
+.nav {
+    font-size: 30px;
+}
+
+.easter p {
     text-align:left;
-    font-size: 18px;
+    font-size: 30px;
+    padding-top: 8%;
 }
 
 .horse_trotting img {
@@ -393,16 +430,29 @@ footer {
 }
 
 #logo {
-    font-size: 50px;
+    text-align: center;
+    font-size: 5vh;
+    margin: 0 auto;
+    letter-spacing: .1em;
+    overflow: hidden;
+    animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
+    white-space: nowrap;
+    border-right: .05em solid pink;
+    width: 10em;
+    justify-content: center;
 }
 
-.easter {
-    font-size: 18px;
-    padding-top: 4%;
-    text-align: left;
+.nav {
+    font-size: 20px;
 }
 
-.intro, .offer, .meet {
+.easter p {
+    font-size: 22px;
+    padding-top: 2.5%;
+    text-align: center;
+}
+
+.mission, .offer, .meet {
     font-size: 20px;
 }
 
@@ -434,4 +484,7 @@ footer {
     height: 160px;
 }
 
+.visit {
+    font-size: 22px;
+}
 }
