@@ -196,10 +196,19 @@ h1 {
 
 /* bookings form */
 
-#bookings {
+#booking-section {
+    background: url("../images/clouds2.png");
+    background-size: cover;
+    background-position: center;
+    height: 415px;
+    font-size: 18px;
+}
+
+.form {
+    max-width: 450px;
     text-align: center;
-    font-size: 19px;
-    display: inline;
+    margin-top: 10px;
+    padding: 20px;
 }
 
 .special > p {
@@ -207,6 +216,18 @@ h1 {
     text-align: center;
     padding: 1%;
 }
+
+.textinput {
+    width: 100%;
+    height: 35px;
+    margin: 6px 2px 20px 0;
+    border: 1px solid pink;
+    border-radius: 5px;
+}
+  
+.textinput:hover {
+    border-color: rgb(33, 37, 41);
+  }
 
 /* back to top button */
 
