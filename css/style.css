@@ -4,6 +4,7 @@ body {
     color: black;
     background-color: beige;
 }
+
 /* headings and logo */
 #banner {
     background-image: url('https://www.animaltalk.com.au/wp-content/uploads/2017/09/Horse-Banner.jpg');
@@ -13,6 +14,7 @@ body {
     height: 370px;
     width: 100%;
 }
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
@@ -24,12 +26,14 @@ h1 {
     margin: 0;
     padding-top: 1%;
 }
+
 .easter {
     padding-left: 8%;
     padding-top: 4%;
     color: pink;
     font-size: 35px;
 }
+
 /* navigation links */
 #nav {
     font-size: 120%;
@@ -46,25 +50,28 @@ h1 {
     text-decoration: none;
     color: inherit;
 }
+
 #nav a:hover {
     border-bottom: 1.5px solid black;
     color: pink;
     cursor: pointer;
 }
+
 .active {
     border-bottom: 1px solid black;
     color: pink;
 }
+
 /* about section */
+
 .meet , .intro, .offer {
     font-size: 30px;
     text-align: center;
     text-decoration: underline;
 }
+
 /* wrapper for sections */
-.sections-wrapper {
-    border-radius: 0.625rem;
-}
+
 .sections-wrapper {
     display: flex;
     height: fit-content;
@@ -73,8 +80,11 @@ h1 {
     box-shadow: 0 0 0.625rem 0.3125rem rgb(0 0 0 / 50%);
     color: black;
     align-items: center;
+    border-radius: 0.625rem;
 }
+
 /*meet the team section */
+
 .ozziepic , .mepic {
     border-radius: 50%;
     padding-top: .5%;
@@ -82,32 +92,41 @@ h1 {
     height:220px;
     width:220px;
 }
+
 .ozzieintro {
     padding-left: 8%;
 }
+
 .meintro {
     padding-left: 2%;
 }
+
 .ozzie {
     padding-left: 5%;
 }
+
 .kate {
     padding-left: 2%;
 }
+
 /* visit us - map section */
+
 .mapimage {
     width: 30%;
     padding-left: 35%;
 }
+
 .visit , p {
     padding-top: 1%;
     font-size: 18px;
     text-align: center;
 }
+
 .visit  {
     font-size: 22px;
     text-align: center;
 }
+
 .fields {
     background-image: url('https://news.cgtn.com/news/2020-12-16/China-discovers-earliest-and-largest-rice-paddy-fields-in-the-world-WgnsFkxq12/img/06dd48b969084ab19f8e40fb83e5ab76/06dd48b969084ab19f8e40fb83e5ab76.png');
     overflow: hidden;
@@ -117,7 +136,9 @@ h1 {
     height: 410px;
     width: 100%;
 }
+
 /* main image and info next to main image on stallions page */
+
 .vagainfo {
     font-size: 25px;
     padding-top: 1%;
@@ -125,27 +146,34 @@ h1 {
     padding-left: 5%;
     padding-right: 3%;
 }
+
 .vagainfo > p {
     font-size: 23px;
 }
+
 .horse_trotting {
     padding-left: 8%;
     height:auto;
     width:auto;
 }
+
 .vagabondz {
     text-align: left;
 }
+
 .stud {
     text-align: center;
     font-size: 50px;
     margin: 1%;
 }
+
 .vagabond_gallery {
     height:auto;
     width:auto;
 }
+
 /* column and row for gallery */
+
 .column img {
     width: 31%;
     height: auto;
@@ -153,31 +181,39 @@ h1 {
     padding-left: 2%;
     padding-bottom: 2%;
 }
+
 .row {
     clear: both;
 }
+
 .vagabond_gallery {
     font-size: 25px;
     text-align: center;
     padding-top: 2%;
 }
+
 /* bookings form */
+
 #bookings {
     text-align: center;
     font-size: 19px;
 }
+
 #easter {
     font-size: 30px;
     text-align: center;
     color: black;
     padding-top: 2%;
 }
+
 .special {
     font-size: 23px;
     text-align: center;
     padding-top: 2%;
 }
+
 /* back to top button */
+
 #to-top {
     text-decoration: none;
     display: inherit;
@@ -187,137 +223,174 @@ h1 {
     border-radius: 5px;
     padding-top: 3%;
 }
+
 #to-top:hover {
     text-decoration: underline;
     color: pink;
 }
+
 /* social networks in footer */
+
 footer {
     height: 100px;
 }
+
 .social-networks {
     text-align: center;
     padding-top: 1%;
     color: black;
 }
+
 .social-networks i {
     font-size: 200%;
     margin: 1%;
     padding-inline: 4%;
     color: black;
 }
+
 .social-networks>li {
     display: inline;
     padding-top: 1%;
 }
+
 .social-networks i:hover {
     color: blue
 }
+
 /* media queries */
 
 /* for mobile screens size from 600px and below */
+
 @media only screen and (max-width: 600px) {
 #banner {
     max-width: 100%;
 }
-    .easter {
+.easter {
     text-align: center;
     font-size: 20px;
     padding-top: 3%;
 }
+
 .horse_trotting img {
     max-width: 100%;
     max-height:100%;
     display: inline;
 }
+
 .stallion {
     font-size: 10px;
     padding: 0%;
 }
+
 .vagainfo > p {
     font-size: 10px;
 }
+
 .vagabondz {
     font-size: 15px;
 }
+
 .stud {
     font-size: 30px;
 }
+
 .ozziepic , .mepic {
     width: 160px;
     height: 160px;
 }
 }
+
 /* for tablets/small laptop screens size from 900px and below */
+
 @media only screen and (max-width: 900px) {
 #banner {
     max-width: 100%;
 }
-    .easter {
+
+.easter {
     text-align:left;
     font-size: 30px;
 }
+
 .horse_trotting img {
     max-width: 100%;
     max-height:100%;
     display: inline;
 }
+
 .stallion {
     font-size: 20px;
     padding: 0%;
 }
+
 .vagainfo > p {
     font-size: 20px;
 }
+
 .vagabondz {
     font-size: 25px;
 }
+
 .stud {
     font-size: 30px;
 }
+
 .ozziepic , .mepic {
     width: 140px;
     height: 140px;
 }
+
 }
+
 /* for small mobile screens size from 400px and below */
+
 @media only screen and (max-width: 400px) {
-    #banner {
-     width: 100%;
-     max-width:400px;
-     background-position: center center;
-     background-size: cover;
-    }
-    #logo {
-        font-size: 50px;
-    }
-    .easter {
-        font-size: 20px;
-        padding-top: 4%;
-    }
-    .intro, .offer, .meet {
-        font-size: 20px;
-    }
-    .horse_trotting img {
-        max-width: 100%;
-        max-height:100%;
-        display: inline;
-    }
-    .stallion {
-        font-size: 10px;
-        padding: 0%;
-    }
-    .vagainfo > p {
-        font-size: 10px;
-    }
-    .vagabondz {
-        font-size: 15px;
-    }
-    .stud {
-        font-size: 30px;
-    }
-    .ozziepic , .mepic {
-        width: 160px;
-        height: 160px;
-    }
-    }
+#banner {
+    width: 100%;
+    max-width:400px;
+    background-position: center center;
+    background-size: cover;
+}
+
+#logo {
+    font-size: 50px;
+}
+
+.easter {
+    font-size: 20px;
+    padding-top: 4%;
+}
+
+.intro, .offer, .meet {
+    font-size: 20px;
+}
+
+.horse_trotting img {
+    max-width: 100%;
+    max-height:100%;
+    display: inline;
+}
+
+.stallion {
+    font-size: 10px;
+    padding: 0%;
+}
+
+.vagainfo > p {
+    font-size: 10px;
+}
+
+.vagabondz {
+    font-size: 15px;
+}
+
+.stud {
+    font-size: 30px;
+}
+
+.ozziepic , .mepic {
+    width: 160px;
+    height: 160px;
+}
+
+}
