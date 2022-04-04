@@ -97,9 +97,11 @@ h1 {
 
 .meintro {
     padding-left: 3%;
+    font-size: 18px;
 }
 .ozzieintro {
     padding-left: 8%;
+    font-size: 18px;
 }
 
 .ozzie {
@@ -118,8 +120,7 @@ h1 {
 }
 
 .visit , p {
-    padding-top: 1%;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
 }
 
