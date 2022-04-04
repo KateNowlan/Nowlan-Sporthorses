@@ -16,14 +16,28 @@ body {
     padding: 0;
 }
 
-h1 {
+#logo {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
-    letter-spacing: .5px;
     text-align: center;
-    font-size: 415%;
-    margin: 0;
+    font-size: 72px;
+    margin: 0 auto;
     padding-top: 1%;
+    letter-spacing: .15em;
+    overflow: hidden;
+    animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
+    white-space: nowrap;
+    border-right: .15em solid pink;
+    width: 0;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent } 50% { border-color: pink;}
 }
 
 .easter p {
