@@ -12,6 +12,24 @@ The sites' target audience is people who:
 
 * want to send us a enquiry for a contract to read through in reagrds to using our stallion.
 
+First Time Visitor Goals
+   1. Understand the site easily. 
+   2. Navigate the site easily. 
+   3. Simple and easy steps to make an enquiry.
+   4. Ensure returning visitors from ease of use.
+
+Returning Visitor Goals
+   1. Return to review information on stallion.
+   2. Enquire about other questions relating to the stallion.
+   3. Find information about specials on stallion.  
+
+#### Clients Objectives 
+
+The client,Katherine Nowlan of Nowlan Sporthorses,would like the site to:
+   1. Present a professional brand to prospective and existing clients.
+   2. Encourage bookings of the stallion for breeding purposes.
+   3. Be informative and easy to understand and navigate.
+
 **The website is live on Github Page [Nowlan Sporthorses](https://katenowlan.github.io/Nowlan-Sporthorses/)**
 
 
