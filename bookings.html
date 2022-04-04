@@ -11,34 +11,36 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Nowlan Sporthorses</title>
 </head>
-    <!--banner and navigation bar with text-->
+<!--banner and navigation bar with text-->
+
 <body>
     <header>
         <div id="banner">
-        <!--image taken from https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.animaltalk.com.au%2Fgallery%2Fhorse-banner%2F&psig=AOvVaw3RWX_hM_NXqF3G8zJSqjoZ&ust=1648713939162000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDfz5ew7fYCFQAAAAAdAAAAABAE-->
+            <!--image taken from https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.animaltalk.com.au%2Fgallery%2Fhorse-banner%2F&psig=AOvVaw3RWX_hM_NXqF3G8zJSqjoZ&ust=1648713939162000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDfz5ew7fYCFQAAAAAdAAAAABAE-->
             <h1 id="logo">Nowlan Sporthorses</h1>
-        <nav>
-            <ul id="nav">
-                <li>
-                    <a href="bookings.html" aria-label="go to the bookings page" class="active">Bookings</a>
-                </li>
-                <li>
-                    <a href="stallions.html" aria-label="go to the stallions page">Stallions</a>
-                </li>
-                <li>
-                    <a href="index.html" aria-label="go to the home page">Home</a>
-                </li>
-            </ul>
-        </nav>
-        <div class="easter">
-            <p>Easter Special<br>£350 LFG*</p>
-        </div></div>    
-    </header> 
-        <!--booking form text-->
-        <div class="special">
-            <p>*Easter Special valid on bookings made and paid before 1 June 2022</p>
+            <nav>
+                <ul id="nav">
+                    <li>
+                        <a href="bookings.html" aria-label="go to the bookings page" class="active">Bookings</a>
+                    </li>
+                    <li>
+                        <a href="stallions.html" aria-label="go to the stallions page">Stallions</a>
+                    </li>
+                    <li>
+                        <a href="index.html" aria-label="go to the home page">Home</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="easter">
+                <p>Easter Special<br>£350 LFG*</p>
+            </div>
         </div>
-        <!--booking form-->
+    </header>
+    <!--booking form text-->
+    <div class="special">
+        <p>*Easter Special valid on bookings made and paid before 1 June 2022</p>
+    </div>
+    <!--booking form-->
     <section id="booking-section">
         <form class="form">
             <label for="fname">First Name:</label>
@@ -47,8 +49,8 @@
             <input type="text" name="lname" class="textinput" id="lname" required><br>
             <label for="email">Email Address:</label>
             <input type="email" name="email" class="textinput" id="email"><br>
-            <textarea name="comment" form="bookings" class="textinput" rows="10" cols="50">Ask us anything...</textarea><br>
-            <input type="submit" value="Submit">
+            <textarea name="comment" form="bookings" rows="6" cols="54">Ask us anything...</textarea><br>
+            <input type="submit" class="submit" value="Submit">
         </form>
     </section>
 
@@ -56,18 +58,21 @@
     <footer>
         <ul class="social-networks">
             <li>
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="visit our facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                    aria-label="visit our facebook page (opens in new tab)"><i class="fab fa-facebook"></i></a>
             </li>
             <li>
-                <a href="https://www.twitter.com/" target="_blank" rel="noopener" aria-label="visit our twitter page (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
+                <a href="https://www.twitter.com/" target="_blank" rel="noopener"
+                    aria-label="visit our twitter page (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
             </li>
             <li>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="visit our instagram page (opens in new tab)"><i class="fab fa-instagram-square"></i></a>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="visit our instagram page (opens in new tab)"><i class="fab fa-instagram-square"></i></a>
             </li>
         </ul>
     </footer>
-        <!-- Links font awesome icons -->
-        <script src="https://kit.fontawesome.com/0585bd0449.js" crossorigin="anonymous"></script>
-    </body>
+    <!-- Links font awesome icons -->
+    <script src="https://kit.fontawesome.com/0585bd0449.js" crossorigin="anonymous"></script>
+</body>
 
-    </html>
+</html>
