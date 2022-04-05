@@ -309,7 +309,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 7vh;
+    font-size: 4vh;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -321,12 +321,12 @@ footer {
 }
 
 .nav {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .easter p {
     text-align:left;
-    font-size: 24px;
+    font-size: 18px;
     padding-top: 15%;
 }
 
@@ -443,13 +443,13 @@ footer {
 }
 
 .nav {
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .easter p {
     font-size: 20px;
-    padding-top: 2.5%;
-    text-align: center;
+    padding-top: 40%;
+    text-align: left;
 }
 
 .special {
