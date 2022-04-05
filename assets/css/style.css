@@ -297,7 +297,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 5.5vh;
+    font-size: 65px;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -351,7 +351,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 6.5vh;
+    font-size: 70px;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -409,7 +409,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 4.5vh;
+    font-size: 55px;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -419,8 +419,8 @@ footer {
 }
 
 .easter p {
-    font-size: 22px;
-    padding-top: 40%;
+    font-size: 20px;
+    padding-top: 20%;
     text-align: left;
 }
 
