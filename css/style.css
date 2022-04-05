@@ -103,7 +103,7 @@ body {
 
 /*meet the team section */
 
-.ozziepic , .mepic {
+.team-two-pic , .team-one-pic {
     border-radius: 50%;
     padding-top: 1%;
     padding-bottom: 1%;
@@ -111,20 +111,20 @@ body {
     width: 180px;
 }
 
-.meintro {
+.team-one-intro {
     padding-left: 3%;
     font-size: 18px;
 }
-.ozzieintro {
+.team-two-intro {
     padding-left: 8%;
     font-size: 18px;
 }
 
-.ozzie {
+.team-two {
     padding-left: 6%;
 }
 
-.kate {
+.team-one {
     padding-left: 2%;
 }
 
@@ -353,7 +353,7 @@ footer {
     font-size: 30px;
 }
 
-.ozziepic , .mepic {
+.team-one-pic , .team-two-pic {
     width: 160px;
     height: 160px;
 }
@@ -368,7 +368,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 7vh;
+    font-size: 6.5vh;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -380,7 +380,7 @@ footer {
 }
 
 .nav {
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .easter p {
@@ -396,7 +396,7 @@ footer {
 }
 
 .stallion {
-    font-size: 20px;
+    font-size: 30px;
     padding: 0%;
 }
 
@@ -412,7 +412,7 @@ footer {
     font-size: 30px;
 }
 
-.ozziepic , .mepic {
+.team-two-pic , .team-one-pic {
     width: 140px;
     height: 140px;
 }
@@ -452,6 +452,10 @@ footer {
     text-align: center;
 }
 
+.special {
+    font-size: 24px;
+}
+
 .mission, .offer, .meet {
     font-size: 20px;
 }
@@ -479,7 +483,7 @@ footer {
     font-size: 30px;
 }
 
-.ozziepic , .mepic {
+.team-one-pic , .team-two-pic {
     width: 160px;
     height: 160px;
 }
