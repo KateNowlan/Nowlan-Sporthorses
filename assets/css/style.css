@@ -297,7 +297,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 65px;
+    font-size: 15vw;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -351,7 +351,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 70px;
+    font-size: 9vw;
     margin: 0 auto;
     letter-spacing: .1em;
     overflow: hidden;
@@ -397,6 +397,61 @@ footer {
 
 }
 
+/* for big laptop/small desktop screens size from 1200px and below */
+
+@media only screen and (max-width: 1200px) {
+    #banner {
+        max-width: 100%;
+    }
+    
+    #logo {
+        text-align: center;
+        font-size: 9vw;
+        margin: 0 auto;
+        letter-spacing: .1em;
+        overflow: hidden;
+    }
+    
+    .nav {
+        font-size: 35px;
+    }
+    
+    .easter p {
+        text-align:left;
+        font-size: 30px;
+        padding-top: 8%;
+    }
+    
+    .horse_trotting img {
+        max-width: 100%;
+        max-height:100%;
+        display: inline;
+    }
+    
+    .stallion {
+        font-size: 30px;
+        padding: 0%;
+    }
+    
+    .vagainfo > p {
+        font-size: 20px;
+    }
+    
+    .vagabondz {
+        font-size: 25px;
+    }
+    
+    .stud {
+        font-size: 30px;
+    }
+    
+    .team-two-pic , .team-one-pic {
+        width: 140px;
+        height: 140px;
+    }
+    
+    }
+
 /* for small mobile screens size from 400px and below */
 
 @media only screen and (max-width: 400px) {
@@ -409,7 +464,7 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 55px;
+    font-size: 15vw;
     margin: 0 auto;
     overflow: hidden;
 }
