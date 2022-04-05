@@ -423,7 +423,7 @@ footer {
 
 @media only screen and (max-width: 400px) {
 #banner {
-    width: 100%;
+    width: 100vw;
     max-width:400px;
     background-position: center center;
     background-size: cover;
@@ -431,9 +431,8 @@ footer {
 
 #logo {
     text-align: center;
-    font-size: 4.25vh;
+    font-size: 5vh;
     margin: 0 auto;
-    letter-spacing: .1em;
     overflow: hidden;
     animation: typing 3.5s steps(20, end) forwards, blink-caret .8s infinite;
     white-space: nowrap;
