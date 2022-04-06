@@ -71,7 +71,7 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
 * ![color theme one](./assets/images/colortheme1.png)
 
-* ![color theme two](./assets/images/colortheme3.png)
+* ![color theme two](./assets/images/colortheme2.png)
 
 * ![color theme three](./assets/images/colortheme3.png)
 
@@ -85,15 +85,15 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
   - This is included on three pages. The navigation bar icons are highlighted in a different color and are underlined as you hover over them. They take you to the other two responsive pages on the website. the full responsive navigation bar includes links to the Logo, Home page and all other pages. The navigation bar is identical in each page to allow for easy navigation. 
 
-   ![banner and navigation](/images/Screenshot_banner.png)
+   ![banner and navigation](./assets/images/Screenshot_banner.png)
 
 - __Navigation links pages__
 
-      - [Home](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/index.html)
+      - [Home](https://katenowlan.github.io/Nowlan-Sporthorses/index.html)
    
-      - [Stallions](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/stallions.html) 
+      - [Stallions](https://katenowlan.github.io/Nowlan-Sporthorses/stallions.html) 
     
-      - [Bookings](https://8000-katenowlan-nowlansportho-8mby1qhsl37.ws-eu38.gitpod.io/bookings.html) 
+      - [Bookings](https://katenowlan.github.io/Nowlan-Sporthorses/bookings.html) 
    
 
    __Home Page Content__
@@ -102,31 +102,31 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
     This is our companies ethos and who we are.
 
-    ![Our Mission](/images/Screenshot_mission.png)
+    ![Our Mission](./assets/images/Screenshot_mission.png)
 
    - What we offer? 
 
     What we offer potential clients as a business.
 
-    ![What we offer?](/images/Screenshot_offer.png)
+    ![What we offer?](./assets/images/Screenshot_offer.png)
 
     - Meet the Team 
 
     Introducing the owner and adding a bit of personality/humour adding the dog as part of the team.
 
-    ![Meet the team](/images/Screenshot_team.png)
+    ![Meet the team](./assets/images/Screenshot_team.png)
 
    - After the main content at the bottom of the page is text with our address and a embedded map of where to find us. Also added is some text welcoming clients to come visit us. In the background is a inviting picture of the farm at sunset enticing clients to come visit.
 
-       ![visit us and map](/images/Screenshot_visitus_map%20.png)
+       ![visit us and map](./assets/images/Screenshot_visitus_map%20.png)
 
    - Almost at the bottom of the Home page there is a 'back to the top' link which when pressed takes you back to the top of the page. Very handy as it stops you from wasting time having to scroll all the way back up.
 
-   ![back to top link](/images/Screenshot_backtotop.png)
+   ![back to top link](./assets/images/Screenshot_backtotop.png)
 
    - And lastly at the bottom of the page are the social media icons which whe clicked take you to their corresponding social media websites. These open in a new tab.
 
-   ![social media icons](/images/Screenshot_socialmediaicons.png)
+   ![social media icons](./assets/images/Screenshot_socialmediaicons.png)
 
 ## *Stallions Page*
 
@@ -138,11 +138,11 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
   - Following on is a picture of the stallion next to the bullet point text.
 
-  ![stallion at stud, information and picture](/images/Screenshot_stallion.png) 
+  ![stallion at stud, information and picture](./assets/images/Screenshot_stallion.png) 
 
   - Next on this page is a section used a gallery with three pictures in a row of the stallion at different angles.
 
-  ![stallion gallery](/images/Screenshot_gallery.png)
+  ![stallion gallery](./assets/images/Screenshot_gallery.png)
 
 ## *Bookings Page*
 
@@ -150,39 +150,42 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
   - Added above this is text stating when the Easter Special offer for LFG (live foal guarentee) finishes. 
 
-  ![booking form](/images/Screenshot_bookings.png) 
+  ![booking form](./assets/images/Screenshot_bookings.png) 
 
 ### **Testing**
  -   This website works works on :
 
+ Screens 400px and below
+ 
  Screens 600px and below
 
  Screens 900px and below
 
- Screens 900px and above
+ Screens 1200px and below
 
+ Screens 1200 and above
 
 __Validator Testing__
 
    - W3C HTML
 
-![W3C HTML validator](/images/Screenshot_w3cvalidatorhtml.png)
+![W3C HTML validator](./assets/images/Screenshot_w3cvalidatorhtml.png)
 
    - CSS Jigsaw
 
-   ![W3C CSS validator](/images/Screenshot_cssvalidator.png)
+   ![W3C CSS validator](./assets/images/Screenshot_cssvalidator.png)
 
    - Lighthouse 
 
     
     - Mobile screenshot
 
-![lighthouse mobile](/images/Screenshot_lighthousemobile.png) 
+![lighthouse mobile](./assets/images/Screenshot_lighthousemobile.png) 
 
     
     - Desktop screenshot
     
-![lighthouse desktop](./images/Screenshot_lighthousedesktop.png)
+![lighthouse desktop](./assets/images/Screenshot_lighthousedesktop.png)
 
 
   The website was tested on the following platforms to see if it worked:
@@ -199,7 +202,7 @@ __Validator Testing__
 
       * I used a color validator to make sure the contrast of colors on the website is balanced.
 
-      ![color contrast](/images/Screenshot_colorcontrast.png)
+      ![color contrast](./assets/images/Screenshot_colorcontrast.png)
 
 # **Testing and Debugging**
 
