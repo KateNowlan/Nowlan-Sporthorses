@@ -24,6 +24,7 @@ body {
     margin: 0 auto;
     letter-spacing: .05em;
     overflow: hidden;
+
 }
 
 .easter p {
@@ -61,7 +62,7 @@ body {
 
 .active {
     border-bottom: 1px solid black;
-    color: pink;
+    color: #F7567C;
 }
 
 .easter a:hover {
@@ -70,7 +71,7 @@ body {
 
 /* about section */
 
-.meet , .mission , .offer {
+.heading {
     font-size: 30px;
     text-align: center;
     text-decoration: underline;
@@ -81,7 +82,6 @@ body {
 .sections-wrapper {
     display: flex;
     height: fit-content;
-    box-shadow: 2px 2px 2px 1px rgb(0 0 0 0.33);
     align-items: center;
     border-radius: 0.625rem;
     background: #FFFAE3;
@@ -104,10 +104,12 @@ body {
 .team-one-intro {
     padding-left: 3%;
     font-size: 18px;
+    color: black;
 }
 .team-two-intro {
     padding-left: 8%;
     font-size: 18px;
+    color: black;
 }
 
 .team-two {
@@ -128,11 +130,13 @@ body {
 .map-header , p {
     font-size: 20px;
     text-align: center;
+    color: black;
 }
 
 .map-header  {
     font-size: 25px;
     text-align: center;
+    color: black;
 }
 
 .map-background {
@@ -246,7 +250,7 @@ body {
 #to-top {
     text-decoration: none;
     display: inherit;
-    color: black;
+    color: #F7567C;
     font-size: 22px;
     text-align: center;
     border-radius: 5px;
@@ -255,7 +259,7 @@ body {
 
 #to-top:hover {
     text-decoration: underline;
-    color: pink;
+    color: black;
 }
 
 /* social networks in footer */
