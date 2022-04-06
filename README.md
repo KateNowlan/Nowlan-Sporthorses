@@ -2,6 +2,13 @@
 
 This website provides it's users with information on a horse to use for breeding purposes.
 
+**The website is live on Github Page [Nowlan Sporthorses](https://katenowlan.github.io/Nowlan-Sporthorses/)**
+
+
+![Am I responsive screenshot](./assets/images/Screenshot_amiresponsive.png)
+
+#### Strategy
+
 The sites' target audience is people who:
 
 * want to find out more about our resident stallion. 
@@ -30,11 +37,6 @@ The client,Katherine Nowlan of Nowlan Sporthorses,would like the site to:
    2. Encourage bookings of the stallion for breeding purposes.
    3. Be informative and easy to understand and navigate.
 
-**The website is live on Github Page [Nowlan Sporthorses](https://katenowlan.github.io/Nowlan-Sporthorses/)**
-
-
-![Am I responsive screenshot](/images/Screenshot_amiresponsive.png)
-
 ### *User Accessibility*
 
  __From a users perspective the site must:__
@@ -47,21 +49,33 @@ The client,Katherine Nowlan of Nowlan Sporthorses,would like the site to:
 * Have information on how to get hold of the author of the website.
 * Have social media channels to click on to follow.
 
-### *Wireframes*
-
-I drew up a mock website so i could plan where i wanted everything to be put and whether the layout would flow.
-
-  * ![wireframe drawing top](/images/Screenshot_wireframetop.png)
-
-  * ![wireframe drawing bottom](/images/Screenshot_wireframebottom.png) 
-
-## *Features*
+### Structure  
 
 The webiste consists of three webpages:
 
 * Home
 * Stallions
 * Bookings
+
+### Skeleton
+
+### *Wireframes*
+
+I drew up a mock website so i could plan where i wanted everything to be put and whether the layout would flow.
+
+  * ![wireframe drawing top](./assets/images/Screenshot_wireframetop.png)
+
+  * ![wireframe drawing bottom](./assets/images/Screenshot_wireframebottom.png) 
+
+### *Color Theme*
+
+* ![color theme one](./assets/images/colortheme1.png)
+
+* ![color theme two](./assets/images/colortheme3.png)
+
+* ![color theme three](./assets/images/colortheme3.png)
+
+## *Features*
 
 ## *Home Page*
 
