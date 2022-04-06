@@ -1,3 +1,5 @@
+# Portfolio Project 1 - HTML and CSS Essentials
+
 # Nowlan Sporthorses
 
 This website provides it's users with information on a horse to use for breeding purposes.
@@ -7,7 +9,7 @@ This website provides it's users with information on a horse to use for breeding
 
 ![Am I responsive screenshot](./assets/images/Screenshot_amiresponsive.png)
 
-#### Strategy
+## Strategy plane
 
 The sites' target audience is people who:
 
@@ -30,14 +32,14 @@ Returning Visitor Goals
    2. Enquire about other questions relating to the stallion.
    3. Find information about specials on stallion.  
 
-#### Clients Objectives 
+### Clients Objectives 
 
 The client,Katherine Nowlan of Nowlan Sporthorses,would like the site to:
    1. Present a professional brand to prospective and existing clients.
    2. Encourage bookings of the stallion for breeding purposes.
    3. Be informative and easy to understand and navigate.
 
-### *User Accessibility*
+## *User Accessibility*
 
  __From a users perspective the site must:__
 
@@ -49,7 +51,7 @@ The client,Katherine Nowlan of Nowlan Sporthorses,would like the site to:
 * Have information on how to get hold of the author of the website.
 * Have social media channels to click on to follow.
 
-### Structure  
+## Structure plane
 
 The webiste consists of three webpages:
 
@@ -57,7 +59,7 @@ The webiste consists of three webpages:
 * Stallions
 * Bookings
 
-### Skeleton
+## Skeleton plane
 
 ### *Wireframes*
 
@@ -67,15 +69,26 @@ I drew up a mock website so i could plan where i wanted everything to be put and
 
   * ![wireframe drawing bottom](./assets/images/Screenshot_wireframebottom.png) 
 
+## Surface plane
+
 ### *Color Theme*
 
-* ![color theme one](./assets/images/colortheme1.png)
+The colour palette chosen is:
+<ol>
+<li>bright</li>
+<li>contrasting</li>
+<li>easy on the eye</li>
 
-* ![color theme two](./assets/images/colortheme2.png)
+ ![color theme one](./assets/images/colortheme1.png)
+- This pink contrasts great with the paler blue and beige. It was used for the main heading in the hero image and the main headers.
 
-* ![color theme three](./assets/images/colortheme3.png)
+ ![color theme two](./assets/images/colortheme2.png)
+ - This blue was used for the background. It is lovely nad subtle and just makes everything pop out of it.
 
-## *Features*
+ ![color theme three](./assets/images/colortheme3.png)
+ - This beige was used for the section containers and really stands out against the font which was kept black for contrast.
+
+# *Features*
 
 ## *Home Page*
 
