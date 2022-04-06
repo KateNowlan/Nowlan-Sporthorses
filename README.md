@@ -233,7 +233,23 @@ A fault i had to learn very quick was my inability to close divs. If i had three
  * Select Folder: /(root)
  * Click save: your website will be deployed.
 
- # **Research**
+ ## Clone and Fork
+
+### Clone 
+
+* In Github, click on the project that you want to clone.
+* Click to copy the URL.
+* Open a new terminal.
+* Change the current working directory to the location that you want the cloned directory.
+* Type 'git clone' and paste the copied URL.
+* Press 'Enter' to clone.
+
+### Fork
+
+* In Github, click on the project that you wish to fork.
+* Click on the 'Fork' button at the top right of the page.
+
+# **Research**
 
  * Websites sourced from Google used for information were:
  - Stack overflow
