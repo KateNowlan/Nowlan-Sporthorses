@@ -80,10 +80,10 @@ The colour palette chosen is:
 <li>easy on the eye</li>
 
  ![color theme one](./assets/images/colortheme1.png)
-- This pink contrasts great with the paler blue and beige. It was used for the main heading in the hero image and the main headers.
+- This pink contrasts great with the paler blue and beige. It was used for the main headers.
 
  ![color theme two](./assets/images/colortheme2.png)
- - This blue was used for the background. It is lovely nad subtle and just makes everything pop out of it.
+ - This blue was used for the background. It is subtle and just makes everything pop out of it.
 
  ![color theme three](./assets/images/colortheme3.png)
  - This beige was used for the section containers and really stands out against the font which was kept black for contrast.
