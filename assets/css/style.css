@@ -80,14 +80,14 @@ body {
 
 .sections-wrapper {
     display: flex;
-    height: fit-content;
     align-items: center;
     border-radius: 0.625rem;
     background: #F8FCDA;
-    padding: 5vh;
     height: auto;
-    margin-top: 3vh;
-    margin-bottom: 3vh;
+    max-width: 1260px;
+    margin: 0 auto;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 /*meet the team section */
@@ -158,17 +158,22 @@ body {
 
 .horse-info > p {
     font-size: 23px;
-    text-align: left;    
+    text-align: left;
+    padding-left: 15%;    
 }
 
 .horse-breeding {
-    font-size: 40px;
-    padding-left: 5%;
+    font-size: 30px;
+    padding: 4%;
 }
 
 .stud {
     font-size: 50px;
     text-align: center;
+}
+
+.main-horse-pic {
+    padding: 3%;
 }
 
 /* column and row for gallery */
