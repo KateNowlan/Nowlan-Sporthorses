@@ -268,27 +268,22 @@ body {
 /* social networks in footer */
 
 footer {
-    height: 100px;
+    height: 80px;
     background: #F9FBB2;
-    align-items: center;
-}
-
-.social-networks {
-    padding-top: 1%;
-    color: black;
     text-align: center;
-    padding-top: 2%;
+    margin: 0 auto;
 }
 
-.social-networks i {
+.social-networks a {
     font-size: 200%;
     color: black;
-    padding-inline: 3%;
 }
 
-.social-networks > li {
-   padding-top: 1%;
-   display: inline;
+.social-networks ul li {
+    display: inline-block;
+    margin-top: 2%;
+    padding-inline: 5%;
+    width: 20%;
 }
 
 .social-networks i:hover {
