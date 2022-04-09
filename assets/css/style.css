@@ -12,7 +12,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     height: 370px;
-    
+
 }
 
 #logo {
@@ -65,7 +65,7 @@ body {
 }
 
 .easter a:hover {
-        color: #7C6354;
+    color: #7C6354;
 }
 
 /* about section */
@@ -85,14 +85,15 @@ body {
     background: #F8FCDA;
     height: auto;
     max-width: 1260px;
-    margin: 0 auto;
     padding-left: 1%;
     padding-right: 1%;
+    margin: 1%;
 }
 
 /*meet the team section */
 
-.team-two-pic , .team-one-pic {
+.team-two-pic,
+.team-one-pic {
     border-radius: 50%;
     padding-top: 1%;
     padding-bottom: 1%;
@@ -106,6 +107,7 @@ body {
     color: black;
     font: bolder;
 }
+
 .team-two-intro {
     padding-left: 8%;
     font-size: 18px;
@@ -128,13 +130,14 @@ body {
     padding-left: 35%;
 }
 
-.map-header , p {
+.map-header,
+p {
     font-size: 20px;
     text-align: center;
     color: black;
 }
 
-.map-header  {
+.map-header {
     font-size: 25px;
     text-align: center;
     color: black;
@@ -156,10 +159,10 @@ body {
 
 /* main image and info next to main image on stallions page */
 
-.horse-info > p {
+.horse-info>p {
     font-size: 23px;
     text-align: left;
-    padding-left: 15%;    
+    padding-left: 15%;
 }
 
 .horse-breeding {
@@ -194,8 +197,8 @@ body {
     font-size: 25px;
     text-align: center;
     padding-top: 2%;
-    height:auto;
-    width:auto;
+    height: auto;
+    width: auto;
 }
 
 /* bookings form */
@@ -217,6 +220,7 @@ body {
     margin-right: auto;
 
 }
+
 .submit {
     font-size: 20px;
     background-color: #F9FBB2;
@@ -232,7 +236,7 @@ body {
     cursor: pointer;
 }
 
-.special > p {
+.special>p {
     font-size: 25px;
     text-align: center;
     padding: 1%;
@@ -244,7 +248,7 @@ body {
     margin: 6px 2px 20px 0;
     border: 1px solid #7C6354;
 }
-  
+
 .textinput:hover {
     border-color: #7C6354;
 }
@@ -296,110 +300,112 @@ footer {
 /* for mobile screens size from 600px and below */
 
 @media only screen and (max-width: 600px) {
-#hero-image {
-    max-width: 100%;
-    
-}
+    #hero-image {
+        max-width: 100%;
 
-#logo {
-    text-align: center;
-    font-size: 15vw;
-    margin: 0 auto;
-    letter-spacing: .1em;
-    overflow: hidden;
-}
+    }
 
-.nav {
-    font-size: 20px;
-}
+    #logo {
+        text-align: center;
+        font-size: 15vw;
+        margin: 0 auto;
+        letter-spacing: .1em;
+        overflow: hidden;
+    }
 
-.easter p {
-    text-align:left;
-    font-size: 16px;
-    padding-top: 15%;
-}
+    .nav {
+        font-size: 20px;
+    }
 
-.main-horse-pic img {
-    max-width: 100%;
-    max-height:100%;
-    display: inline;
-}
+    .easter p {
+        text-align: left;
+        font-size: 16px;
+        padding-top: 15%;
+    }
 
-.stallion {
-    font-size: 10px;
-    padding: 0%;
-}
+    .main-horse-pic img {
+        max-width: 100%;
+        max-height: 100%;
+        display: inline;
+    }
 
-.horse-info > p {
-    font-size: 10px;
-}
+    .stallion {
+        font-size: 10px;
+        padding: 0%;
+    }
 
-.horse-breeding {
-    font-size: 15px;
-}
+    .horse-info>p {
+        font-size: 10px;
+    }
 
-.stud {
-    font-size: 30px;
-}
+    .horse-breeding {
+        font-size: 15px;
+    }
 
-.team-one-pic , .team-two-pic {
-    width: 100px;
-    height: 100px;
-}
+    .stud {
+        font-size: 30px;
+    }
+
+    .team-one-pic,
+    .team-two-pic {
+        width: 100px;
+        height: 100px;
+    }
 }
 
 /* for tablets/small laptop screens size from 900px and below */
 
 @media only screen and (max-width: 900px) {
-#hero-image {
-    max-width: 100%;
-}
+    #hero-image {
+        max-width: 100%;
+    }
 
-#logo {
-    text-align: center;
-    font-size: 9vw;
-    margin: 0 auto;
-    letter-spacing: .1em;
-    overflow: hidden;
-}
+    #logo {
+        text-align: center;
+        font-size: 9vw;
+        margin: 0 auto;
+        letter-spacing: .1em;
+        overflow: hidden;
+    }
 
-.nav {
-    font-size: 35px;
-}
+    .nav {
+        font-size: 35px;
+    }
 
-.easter p {
-    text-align:left;
-    font-size: 30px;
-    padding-top: 8%;
-}
+    .easter p {
+        text-align: left;
+        font-size: 30px;
+        padding-top: 8%;
+    }
 
-.main-horse-pic img {
-    max-width: 100%;
-    max-height:100%;
-    display: inline;
-}
+    .main-horse-pic img {
+        max-width: 100%;
+        max-height: 100%;
+        display: inline;
+    }
 
-.stallion {
-    font-size: 30px;
-    padding: 0%;
-}
+    .stallion {
+        font-size: 30px;
+        padding: 0%;
+    }
 
-.horse-info > p {
-    font-size: 20px;
-}
+    .horse-info>p {
+        font-size: 20px;
+    }
 
-.horse-breeding {
-    font-size: 25px;
-}
+    .horse-breeding {
+        font-size: 25px;
+    }
 
-.stud {
-    font-size: 30px;
-}
+    .stud {
+        font-size: 30px;
+    }
 
-.team-two-pic , .team-one-pic {
-    width: 140px;
-    height: 140px;
-}
+    .team-two-pic,
+    .team-one-pic {
+        width: 140px;
+        height: 140px;
+    }
 
 }
 
@@ -409,7 +415,7 @@ footer {
     #hero-image {
         max-width: 100%;
     }
-    
+
     #logo {
         text-align: center;
         font-size: 9vw;
@@ -417,111 +423,115 @@ footer {
         letter-spacing: .1em;
         overflow: hidden;
     }
-    
+
     .nav {
         font-size: 35px;
     }
-    
+
     .easter p {
-        text-align:left;
+        text-align: left;
         font-size: 30px;
         padding-top: 8%;
     }
-    
+
     .main-horse-pic img {
         max-width: 100%;
-        max-height:100%;
+        max-height: 100%;
         display: inline;
     }
-    
+
     .stallion {
         font-size: 30px;
         padding: 0%;
     }
-    
-    .horse-info > p {
+
+    .horse-info>p {
         font-size: 20px;
     }
-    
+
     .horse-breeding {
         font-size: 25px;
     }
-    
+
     .stud {
         font-size: 30px;
     }
-    
-    .team-two-pic , .team-one-pic {
+
+    .team-two-pic,
+    .team-one-pic {
         width: 140px;
         height: 140px;
     }
-    
-    }
+
+}
 
 /* for small mobile screens size from 400px and below */
 
 @media only screen and (max-width: 400px) {
-#hero-image {
-    width: 100vw;
-    background-position: center center;
-    background-size: cover;
-}
+    #hero-image {
+        width: 100vw;
+        background-position: center center;
+        background-size: cover;
+    }
 
-#logo {
-    text-align: center;
-    font-size: 15vw;
-    margin: 0 auto;
-    overflow: hidden;
-    padding-top: 2%;
-}
+    #logo {
+        text-align: center;
+        font-size: 15vw;
+        margin: 0 auto;
+        overflow: hidden;
+        padding-top: 2%;
+    }
 
-.nav {
-    font-size: 18px;
-}
+    .nav {
+        font-size: 18px;
+    }
 
-.easter p {
-    font-size: 20px;
-    padding-top: 20%;
-    text-align: left;
-}
+    .easter p {
+        font-size: 20px;
+        padding-top: 20%;
+        text-align: left;
+    }
 
-.special {
-    font-size: 24px;
-}
+    .special {
+        font-size: 24px;
+    }
 
-.mission, .offer, .meet {
-    font-size: 22px;
-}
+    .mission,
+    .offer,
+    .meet {
+        font-size: 22px;
+    }
 
-.main-horse-pic img {
-    max-width: 100%;
-    max-height:100%;
-    display: inline;
-}
+    .main-horse-pic img {
+        max-width: 100%;
+        max-height: 100%;
+        display: inline;
+    }
 
-.stallion {
-    font-size: 10px;
-    padding: 0%;
-}
+    .stallion {
+        font-size: 10px;
+        padding: 0%;
+    }
 
-.horse-info > p {
-    font-size: 10px;
-}
+    .horse-info>p {
+        font-size: 10px;
+    }
 
-.horse-breeding {
-    font-size: 15px;
-}
+    .horse-breeding {
+        font-size: 15px;
+    }
 
-.stud {
-    font-size: 30px;
-}
+    .stud {
+        font-size: 30px;
+    }
 
-.team-one-pic , .team-two-pic {
-    width: 100px;
-    height: 100px;
-}
+    .team-one-pic,
+    .team-two-pic {
+        width: 100px;
+        height: 100px;
+    }
 
-.map-header {
-    font-size: 22px;
-}
+    .map-header {
+        font-size: 22px;
+    }
 }
