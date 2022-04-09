@@ -275,8 +275,9 @@ p {
 footer {
     height: 80px;
     background: #F9FBB2;
-    text-align: center;
     margin: 0 auto;
+    text-align: center;
+
 }
 
 .social-networks a {

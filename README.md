@@ -79,14 +79,14 @@ The colour palette chosen is:
 <li>contrasting</li>
 <li>easy on the eye</li>
 
- ![color theme one](./assets/images/colortheme1.png)
-- This pink contrasts great with the paler blue and beige. It was used for the main headers.
+ ![color theme one](./assets/images/Screenshot_colortheme1.png)
+- This dark brown contrasts great with the pale yellows. It was used for the main headers.
 
- ![color theme two](./assets/images/colortheme2.png)
- - This blue was used for the background. It is subtle and just makes everything pop out of it.
+ ![color theme two](./assets/images/Screenshot_colortheme2.png)
+ - This light yellow was used for the section containers and it makes the font stand out against it  which was kept black for contrast.
 
- ![color theme three](./assets/images/colortheme3.png)
- - This beige was used for the section containers and really stands out against the font which was kept black for contrast.
+ ![color theme three](./assets/images/Screenshot_colortheme3.png)
+ - This lemon yellow was used for the background. It is subtle and just makes everything pop out of it.
 
 # *Features*
 
