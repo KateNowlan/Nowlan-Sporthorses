@@ -235,6 +235,8 @@ p {
 .submit:hover {
     border-color: #7C6354;
     cursor: pointer;
+    color: #F9FBB2;
+    background-color: #7C6354;
 }
 
 .special>p {
